@@ -2,12 +2,12 @@
 <manifest>
     <remote
         name="origin"
-        fetch="ssh://git@github.com:hetao210"
+        fetch="https://github.com/hetao210"
     />
     <default
         remote="origin"
         revision="master"
         sync-j="4"
     />
-    <project path="new" name="new.git"/>
+    <project path="new" name="new"/>
 </manifest>
