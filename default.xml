@@ -9,5 +9,5 @@
         revision="master"
         sync-j="4"
     />
-    <project path="new" name="new"/>
+    <project path="testrepo" name="new/testrepo"/>
 </manifest>
